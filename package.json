@@ -1,0 +1,31 @@
+{
+  "name": "react-native-citys-picker",
+  "version": "1.0.2",
+  "description": "纯JS实现的ReactNative城市选择Picker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "react-native-modal": "^11.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yuzi-me/react-native-citys-picker.git"
+  },
+  "keywords": [
+    "city-picker",
+    "react-native",
+    "picker",
+    "city",
+    "地址选择器",
+    "三级联动",
+    "城市选择器"
+  ],
+  "author": "Yuzi.me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yuzi-me/react-native-citys-picker/issues"
+  },
+  "homepage": "https://github.com/Yuzi-me/react-native-citys-picker#readme"
+}
